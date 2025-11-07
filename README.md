@@ -21,11 +21,13 @@ To develop the Hospital management System using Star UML tool.
 # DIAGRAMS:
 USECASE DIAGRAM
 
-<img width="1076" height="928" alt="image" src="https://github.com/user-attachments/assets/b082ef9b-293d-4633-b0e5-14cacf7653cc" />
+![usecase4](https://github.com/user-attachments/assets/fb0ec00d-1aaf-480d-9ec7-63e100ab5c37)
+
 
 CLASS DIAGRAM
 
-<img width="1052" height="833" alt="image" src="https://github.com/user-attachments/assets/60f32ccb-f40a-4905-8b66-9ff8b04efd7a" />
+![class4](https://github.com/user-attachments/assets/da023a04-df46-4aa7-b443-1bdccc4e98e7)
+
 
 ACTIVITY DIAGRAM
 
@@ -33,15 +35,17 @@ ACTIVITY DIAGRAM
 
 SEQUENCE DIAGRAM
 
-<img width="1079" height="884" alt="image" src="https://github.com/user-attachments/assets/81a2ac9c-07aa-4741-8ddd-e38be82db503" />
+![sequence4](https://github.com/user-attachments/assets/5748ca3e-6596-4ac8-8b68-cf7775bb63e9)
 
 PACKAGE DIRAGRAM
 
-<img width="825" height="489" alt="image" src="https://github.com/user-attachments/assets/d0b1f4c2-198c-4121-a9ed-f5323f7e86f3" />
+![package4](https://github.com/user-attachments/assets/63635b94-cc98-4518-95ef-2ed087b67c78)
+
 
 COMMUNICATION DIAGRAM
 
-![comm4](https://github.com/user-attachments/assets/acd95a5d-05e5-48b3-b6ad-5629b2596109)
+![comm4](https://github.com/user-attachments/assets/63d299a0-8a22-471b-9f65-bde4c1afb264)
+
 
 # RESULT:
 Thus the Hospital management System project was executed and the output was verified.
